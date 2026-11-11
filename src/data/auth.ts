@@ -1,0 +1,1 @@
+export const sidePanelColors = ["bg-primary", "bg-blue-500", "bg-purple-500", "bg-orange-500"];
